@@ -1,0 +1,8 @@
+10:49:41.430 [main] INFO  resources.base - Restrcicted user
+10:50:05.925 [main] INFO  resources.base - Navigation bar is verified
+16:17:50.070 [main] INFO  resources.base - Driver is Initialized
+16:18:19.639 [main] INFO  resources.base - The url is successfully passed and its being loaded
+16:18:19.648 [main] INFO  resources.base - Waiting for news letter notification
+16:18:23.911 [main] INFO  resources.base - Successfully clicked no thanks button
+16:18:32.593 [main] INFO  resources.base - Restrcicted user
+16:18:40.627 [main] INFO  resources.base - Driver is Initialized

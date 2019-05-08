@@ -1,0 +1,13 @@
+10:33:09.476 [main] INFO  resources.base - Successfully clicked no thanks button
+10:33:16.064 [main] INFO  resources.base - Restrcicted user
+10:33:27.594 [main] INFO  resources.base - The title is being displayed and its validated
+10:33:38.836 [main] INFO  resources.base - Navigation bar is verified
+10:48:56.129 [main] INFO  resources.base - Driver is Initialized
+10:49:02.555 [main] INFO  resources.base - The url is successfully passed and its being loaded
+10:49:02.561 [main] INFO  resources.base - Waiting for news letter notification
+10:49:09.374 [main] INFO  resources.base - Successfully clicked no thanks button
+10:49:15.833 [main] INFO  resources.base - Restrcicted user
+10:49:20.639 [main] INFO  resources.base - Driver is Initialized
+10:49:24.711 [main] INFO  resources.base - The url is successfully passed and its being loaded
+10:49:24.715 [main] INFO  resources.base - Waiting for news letter notification
+10:49:34.646 [main] INFO  resources.base - Successfully clicked no thanks button
